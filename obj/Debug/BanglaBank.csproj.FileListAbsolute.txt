@@ -1,0 +1,22 @@
+c:\users\moham\onedrive\documents\visual studio 2015\Projects\BanglaBank\BanglaBank\bin\Debug\BanglaBank.exe.config
+c:\users\moham\onedrive\documents\visual studio 2015\Projects\BanglaBank\BanglaBank\bin\Debug\BanglaBank.exe
+c:\users\moham\onedrive\documents\visual studio 2015\Projects\BanglaBank\BanglaBank\bin\Debug\BanglaBank.pdb
+c:\users\moham\onedrive\documents\visual studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.UI.Create_Account.resources
+c:\users\moham\onedrive\documents\visual studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.BanglaBankUI.resources
+c:\users\moham\onedrive\documents\visual studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.Properties.Resources.resources
+c:\users\moham\onedrive\documents\visual studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.UI.Search_Account.resources
+c:\users\moham\onedrive\documents\visual studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.UI.Transaction.resources
+c:\users\moham\onedrive\documents\visual studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.csproj.GenerateResource.Cache
+c:\users\moham\onedrive\documents\visual studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.exe
+c:\users\moham\onedrive\documents\visual studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.pdb
+D:\All Documents\Visual Studio 2015\Projects\BanglaBank\BanglaBank\bin\Debug\BanglaBank.exe.config
+D:\All Documents\Visual Studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.exe
+D:\All Documents\Visual Studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.pdb
+D:\All Documents\Visual Studio 2015\Projects\BanglaBank\BanglaBank\bin\Debug\BanglaBank.exe
+D:\All Documents\Visual Studio 2015\Projects\BanglaBank\BanglaBank\bin\Debug\BanglaBank.pdb
+D:\All Documents\Visual Studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.UI.Create_Account.resources
+D:\All Documents\Visual Studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.BanglaBankUI.resources
+D:\All Documents\Visual Studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.Properties.Resources.resources
+D:\All Documents\Visual Studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.UI.Search_Account.resources
+D:\All Documents\Visual Studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.UI.Transaction.resources
+D:\All Documents\Visual Studio 2015\Projects\BanglaBank\BanglaBank\obj\Debug\BanglaBank.csproj.GenerateResource.Cache
